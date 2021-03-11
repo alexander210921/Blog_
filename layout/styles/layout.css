@@ -316,7 +316,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#FFA41F;}
 #header section input:focus{border-color:#FFA41F;}
 #header section button{color:#FFFFFF; background-color:#FFA41F;}
 #header #mainav{border-color:rgba(0,0,0,.1);}
-
+/* #mybutton:hover{
+	background-color: orange  !important;
+	color: wheat;
+} */
 
 /* Page Intro */
 #pageintro article{color:#121212; background-color:rgba(255,255,255,.7);}
